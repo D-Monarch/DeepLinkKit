@@ -5,10 +5,10 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                        DeepLink Kit is a splendid route-handling block-based way to handle deep links. Use DeepLink Kit to parse incoming URLs, extract parameters from the host, url etc.. and even build outgoing deep links. All with a simple, block-based interface.
                        DESC
-  s.homepage         = "https://www.usebutton.com/developers/deep-link-kit/"
+  s.homepage         = "https://github.com/D-Monarch"
   s.license          = 'MIT'
   s.author           = 'Button, Inc.'
-  s.source           = { :git => "https://github.com/button/DeepLinkKit.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/D-Monarch/DeepLinkKit.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/buttondev'
 
   s.ios.deployment_target     = "7.0"
