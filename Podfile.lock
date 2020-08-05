@@ -1,5 +1,5 @@
 PODS:
-  - DeepLinkKit (1.5.1)
+  - DeepLinkKit (1.6.0)
   - Expecta (1.0.6)
   - KIF (3.6.0):
     - KIF/Core (= 3.6.0)
@@ -15,7 +15,7 @@ DEPENDENCIES:
   - Specta
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Expecta
     - KIF
     - OCMock
@@ -26,12 +26,12 @@ EXTERNAL SOURCES:
     :path: "."
 
 SPEC CHECKSUMS:
-  DeepLinkKit: 9f300348cbb20ef8389a5018a57d8c9952b1831c
+  DeepLinkKit: 76abfdb6b134b4cbac13317968965b88c620b39f
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   KIF: bd770edd8ce49bc7308501e4871e58a02d137be3
   OCMock: 35ae71d6a8fcc1b59434d561d1520b9dd4f15765
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
 
-PODFILE CHECKSUM: c390f027c860b497aa35e691b8e585f706ac36a5
+PODFILE CHECKSUM: e0cf0501212a98a1cf029d4f20631fca4099f0d7
 
-COCOAPODS: 1.7.5
+COCOAPODS: 1.8.4

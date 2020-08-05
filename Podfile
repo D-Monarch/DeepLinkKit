@@ -1,3 +1,4 @@
+source 'https://github.com/CocoaPods/Specs.git'
 project 'DeepLinkKit.xcodeproj', 'Test' => :debug
 inhibit_all_warnings!
 use_frameworks!
