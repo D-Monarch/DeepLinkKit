@@ -1,5 +1,5 @@
 PODS:
-  - DeepLinkKit (1.6.0)
+  - DeepLinkKit (1.6.2)
   - Expecta (1.0.6)
   - KIF (3.6.0):
     - KIF/Core (= 3.6.0)
@@ -26,7 +26,7 @@ EXTERNAL SOURCES:
     :path: "."
 
 SPEC CHECKSUMS:
-  DeepLinkKit: e60f57ee4f62334db0adb4a3ad2e3e4d79779106
+  DeepLinkKit: 83bdf3b60ba3eb6225e2cce965455a65cea85245
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   KIF: bd770edd8ce49bc7308501e4871e58a02d137be3
   OCMock: 35ae71d6a8fcc1b59434d561d1520b9dd4f15765
