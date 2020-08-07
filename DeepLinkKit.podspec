@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "DeepLinkKit"
-  s.version          = "1.6.4"
+  s.version          = "1.6.5"
   s.summary          = "A splendid route-matching, block-based way to handle your deep links."
   s.description      = <<-DESC
                        DeepLink Kit is a splendid route-handling block-based way to handle deep links. Use DeepLink Kit to parse incoming URLs, extract parameters from the host, url etc.. and even build outgoing deep links. All with a simple, block-based interface.
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/D-Monarch/DeepLinkKit.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/buttondev'
 
-  s.ios.deployment_target     = "9.0"
+  s.ios.deployment_target     = "8.0"
   s.tvos.deployment_target    = "9.0"
 
   s.requires_arc     = true
